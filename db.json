@@ -2,9 +2,9 @@
   "alunos":[
     {
       "id" : 0,
-      "nome": "First post!",
-      "curso" : "My first content!",
-      "matricula": "First post!"
+      "nome": "Joao",
+      "curso" : "Front",
+      "matricula": "abc123"
     }
   ]
 }
