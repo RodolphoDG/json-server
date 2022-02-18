@@ -2,16 +2,9 @@
   "alunos":[
     {
       "id" : 0,
-      "nome": "First post!",
-      "idade" : "My first content!",
-      "matricula": "First post!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "nome": "Joao",
+      "curso" : "Front",
+      "matricula": "abc123"
     }
   ]
 }
